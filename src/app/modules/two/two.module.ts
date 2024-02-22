@@ -5,7 +5,7 @@ import { TwoRoutingModule } from './two-routing.module';
 
 @NgModule({
   declarations: [TestComponent],
-  imports: [TwoRoutingModule, OneModule],
+  imports: [TwoRoutingModule],
   providers: [],
 })
 export class TwoModule {}
