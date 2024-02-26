@@ -1,3 +1,3 @@
-# test-ng-module-import
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/felixbenzbaldas/test-ng-module-import)
+### test project
+- test if a missing module import leads to a compile error
+- run online here: stackblitz.com/edit/my9mwe-5wjuke
